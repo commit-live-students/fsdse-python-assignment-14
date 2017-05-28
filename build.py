@@ -7,3 +7,6 @@ def solution(list):
         if x not in unique:
             unique.append(x)
     return (unique)
+
+
+print solution( (1,2,2,4,5) )
