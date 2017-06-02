@@ -1,5 +1,5 @@
 def solution(l):
-
+    
     unique = []
     for x in l:
         if x not in unique:
