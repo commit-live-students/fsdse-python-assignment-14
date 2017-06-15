@@ -5,5 +5,5 @@ def solution(list):
             unique.append(x)
     return (unique)
 
-l = [1, 2, 3, 2, 1, 5, 6, 5, 5, 5]
+l = [1, 3, 4, 3 ,5]
 solution(l)
